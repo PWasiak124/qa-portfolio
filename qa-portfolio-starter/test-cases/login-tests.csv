@@ -1,0 +1,3 @@
+ID,Tytuł,Opis,Kroki,Dane testowe,Oczekiwany rezultat,Priorytet,Status
+TC-001,Logowanie poprawne,Sprawdzenie logowania poprawnego użytkownika,"1. Otwórz stronę logowania; 2. Wpisz login i hasło; 3. Kliknij Zaloguj","Login: standard_user, Hasło: secret_sauce","Użytkownik zostaje przeniesiony do listy produktów",Wysoki,Not Run
+TC-002,Logowanie błędne,Sprawdzenie błędnego hasła,"1. Otwórz stronę logowania; 2. Wpisz login i złe hasło; 3. Kliknij Zaloguj","Login: standard_user, Hasło: 123456","Komunikat błędu: 'Username and password do not match'",Wysoki,Not Run
