@@ -16,8 +16,8 @@ Chcę wejść w świat testowania manualnego i krok po kroku uczyć się dobrych
 To repozytorium traktuję jako miejsce do ćwiczeń i coś, co mogę pokazać rekruterowi, żeby zobaczył mój sposób pracy.  
 
 ## Kontakt
-📧 [Twój e-mail]  
-💼 [Twój LinkedIn]  
+📧 p.wasiak124@gmail.com  
+💼 [miejsce na linkedin]  
 
 ---
 
